@@ -1,0 +1,3 @@
+post category means the category such as search, sale or service
+
+category mean e.g Health, Automechanic, Constuction etc
